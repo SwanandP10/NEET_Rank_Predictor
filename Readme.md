@@ -23,3 +23,4 @@ This project provides an API for predicting NEET (National Eligibility cum Entra
 pip install -r requirements.txt
 python3 script.py
 go to 127.0.0.1:8000/docs in your browser
+After running the server use id YcDFSO4ZukTJnnFMgRNVwZTE4j42
